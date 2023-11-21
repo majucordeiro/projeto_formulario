@@ -1,0 +1,52 @@
+body{
+    background-color: gray;
+}
+
+section{
+max-width: 500px; 
+margin: 50px auto; 
+background-color: antiquewhite; 
+border-color: gray; 
+border-style: solid; 
+border-radius: 10px;
+}
+
+.formulario{ 
+    display: flex; 
+    flex-direction: column; 
+    padding: 30px; 
+    color: white;
+}
+
+input{
+border-style: none; 
+outline-color: burlywood; 
+margin: 5px 0;
+}
+
+button{
+margin-top: 10px;
+background-color: black; 
+color: white; 
+border-radius: 10px;
+}
+
+label{ 
+    color: black; }
+
+#Nome{
+border-radius: 10px;
+}
+
+label{ 
+    color: black; }
+
+#Nome{ 
+    border-radius: 10px; }
+
+#email{ 
+    border-radius: 10px;
+}
+
+#Senha{ 
+    border-radius: 10px; }
